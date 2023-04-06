@@ -7,7 +7,7 @@
 const contacts = [
     { id: 1, name: 'Mateus', email: 'mateus@email.com' },
     { id: 2, name: 'Gustavo', email: 'gustavo@email.com' },
-    { id: 3, name: 'Beatriz ', email: 'beatriz@email.com' },
+    { id: 3, name: 'Beatriz', email: 'beatriz@email.com' },
     { id: 4, name: 'Marcos', email: 'marcos@email.com' },
     { id: 5, name: 'Monalisa', email: 'monalisa@email.com' },
     { id: 6, name: 'João', email: 'jao@email.com' },
